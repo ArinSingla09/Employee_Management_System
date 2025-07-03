@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+    background-color: #F5F5F5;
+}
+
+.ag-header-center .ag-header-cell-label {
+  justify-content: center !important;
+}
